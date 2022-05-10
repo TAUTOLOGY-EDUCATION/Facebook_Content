@@ -1,0 +1,55 @@
+name,catagory,sub class,with skin,kcal(raw),kcal(cooked),frying method,kcal(fried)
+"pork, rib",meat,mammals,no,171,,fry,273
+"pork, loin",meat,mammals,no,141,110,fry with flour,260
+"pork, belly, with skin",meat,mammals,yes,518,,fry,550
+"pork, ham",meat,mammals,no,145,195,fry with flour,232
+"pork, leg, with skin",meat,mammals,yes,245,273,fry,325
+"beef, brisket",meat,mammals,no,155,225,fry,342
+"beef, flank",meat,mammals,no,136,178,fry with flour,268
+"beef, round",meat,mammals,no,168,224,fry,228
+"beef, sirloin",meat,mammals,no,201,244,fry,326
+"beef, rib",meat,mammals,no,338,,fry,362
+"lamb, brain",meat,mammals,no,145,,fry,273
+"lamb, loin",meat,mammals,no,220,,fry,270
+"lamb, liver",meat,mammals,no,139,,fry,238
+"goat, meat",meat,mammals,no,109,143,fry,153
+"chicken, neck, with skin",meat,birds,yes,150,179,fry with flour,327
+"chicken, breast, with skin",meat,birds,yes,110,165,fry with flour,222
+"chicken, wings, with skin",meat,birds,yes,140,152,fry with flour,324
+"chicken, thighs, with skin",meat,birds,yes,143,160,fry with flour,277
+"chicken, legs, with skin",meat,birds,yes,150,168,fry with flour,245
+"chicken, gizzard ",meat,birds,no,94,154,fry with flour,222
+"chicken, heart",meat,birds,no,153,175,fry,183
+"chicken, liver",meat,birds,no,116,167,fry with flour,200
+"turkey, breast, with skin",meat,birds,yes,114,153,fry with flour,283
+"turkey, liver",meat,birds,no,128,158,fry with flour,172
+"turkey, legs, with skin",meat,birds,yes,139,159,fry with flour,215
+"duck, breast, with skin",meat,birds,yes,123,194,fry,199
+"duck, thighs, with skin",meat,birds,yes,150,262,fry,324
+"rabbit, meat, with skin",meat,mammals,yes,114,159,fry with flour,206
+"salmon, meat",meat,seafood,no,159,179,fry,218
+"tuna, meat",meat,seafood,no,144,138,fry with flour,229
+"catfish, with skin",meat,seafood,yes,114,144,fry,152
+"pike, with skin",meat,seafood,yes,88,,fry with flour,217
+"tilapia, with skin",meat,seafood,yes,96,129,fry,169
+"crab, with skin",meat,seafood,yes,101,136,fry with flour,333
+octopus,meat,seafood,no,81,164,fry with flour,496
+squid,meat,seafood,no,92,110,fry with flour,208
+shrimp,meat,seafood,no,71,138,fry with flour,308
+egg,meat,birds,no,155,155,fry,196
+"frog, leg",meat,seafood,no,73,104,fry with flour,236
+mussels,meat,seafood,no,82,90,fry with flour,215
+oysters,meat,seafood,no,81,160,fry with flour,265
+scallop,meat,seafood,no,111,,fry with flour,184
+sausage,processed,mammals product,no,212,210,fry,233
+ham,processed,mammals product,no,135,156,fry with flour,240
+bacon,processed,mammals product,no,417,548,fry,541
+tofu,processed,grain product,no,76,84,fry,271
+meatballs,processed,mammals product,no,,158,fry,190
+dumpling,processed,instant food,no,130,131,fry,176
+mozzarella cheese,processed,mammals product,no,280,,fry with flour,319
+cheddar cheese,processed,mammals product,no,402,,fry with flour,428
+spring roll,processed,instant food,no,,174,fry,230
+pickle,processed,vegetable product,no,11,,fry with flour,188
+bread ,processed,grain product,no,,265,fry with flour,503
+dough,processed,grain product,no,229,,fry with flour,331
